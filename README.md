@@ -1,2 +1,2 @@
 # cdn
-hexo and jsdelivrcdn加速blog
+hexo and jsdelivr cdn加速blog
